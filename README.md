@@ -6,10 +6,10 @@ I'm a developer based in Guadalajara, Mexico, focused on building scalable, secu
 ---
 
 ### About My Work
-- 🔐 **Focus:** I build clean, minimalist interfaces with a "security-first" approach, prioritizing both user experience and data protection.
-- 🧠 **Innovation:** Experience integrating AI engines (real-time STT/TTS streaming) into interactive, user-facing applications.
-- ⚙️ **Infrastructure:** Skilled in hardware optimization, server maintenance, and secure deployments using Cloudflare tunnels.
-- 🌐 **Main Portfolio:** Explore my 28+ active projects at [navhcode.com](https://navhcode.com)
+- **Focus:** I build clean, minimalist interfaces with a "security-first" approach, prioritizing both user experience and data protection.
+- **Innovation:** Experience integrating AI engines (real-time STT/TTS streaming) into interactive, user-facing applications.
+- **Infrastructure:** Skilled in hardware optimization, server maintenance, and secure deployments using Cloudflare tunnels.
+- **Main Portfolio:** Explore my 28+ active projects at [navhcode.com](https://navhcode.com)
 
 ---
 
@@ -32,9 +32,9 @@ I'm a developer based in Guadalajara, Mexico, focused on building scalable, secu
 
 ### Featured Projects
 
-* **juannavarroh2005@gamil.com** - A comprehensive platform designed for social accompaniment and emergency support. It features an integrated AI chat, secure contact management, and encrypted critical document storage.
-* **juannavarroh2005@gamil.com** - A security tool engineered with a strict, minimalist design, optimized for reliable protection and efficient credential management.
-* **juannavarroh2005@gamil.com** - A high-performance, immersive interactive web experience built with a seamless, buttonless UI for fluid navigation.
+* **[HiCare]** - A comprehensive platform designed for social accompaniment and emergency support. It features an integrated AI chat, secure contact management, and encrypted critical document storage.
+* **[NavhPass]** - A security tool engineered with a strict, minimalist design, optimized for reliable protection and efficient credential management.
+* **[Infinity Domain]** - A high-performance, immersive interactive web experience built with a seamless, buttonless UI for fluid navigation.
 
 ---
 
@@ -54,5 +54,5 @@ I'm a developer based in Guadalajara, Mexico, focused on building scalable, secu
 
 <p align="center">
   <a href="https://navhcode.com"><img src="https://img.shields.io/badge/Portfolio-navhcode.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:juannavarroh2005@gamil.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
